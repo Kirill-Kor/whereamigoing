@@ -1,0 +1,8 @@
+.header__link {
+  display: block;
+  color: #000;
+  text-decoration: none;
+  font-size: var(--font-size-text);
+  font-weight: 700;
+  margin-right: 36px;
+}
