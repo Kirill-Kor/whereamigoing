@@ -11,3 +11,9 @@
 .header__link:hover {
   color: #fecda7;
 }
+
+@media screen and (max-width: 767px) {
+  .header__link {
+    margin-bottom: 20px;
+  }
+}
