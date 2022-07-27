@@ -1,4 +1,6 @@
 .footer {
+  margin: 0 auto;
+  max-width: 1280px;
   min-height: 620px;
   background-color: #fecda7;
   display: flex;
