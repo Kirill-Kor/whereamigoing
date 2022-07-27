@@ -1,0 +1,9 @@
+.places__pic_column_third {
+  grid-column: 2;
+}
+
+/*@media screen and (max-width:767px) {
+  .places__pic_column_third {
+    grid-row: 3;
+  }
+}*/

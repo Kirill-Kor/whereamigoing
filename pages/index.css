@@ -21,7 +21,9 @@
 /*places*/
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/__pic/places__pic.css);
+@import url(../blocks/places/__pic/_column/places__pic_column_third.css);
 @import url(../blocks/places/__description/places__description.css);
+@import url(../blocks/places/__description/_column/places__description_column_third.css);
 @import url(../blocks/places/__text/places__text.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
 @import url(../blocks/places/__paragraph/_margin-bottom/places__paragraph_margin-bottom_no.css);

@@ -1,5 +1,12 @@
 .lead__pic {
   width: 355px;
-  height: 355px;
+  max-height: 355px;
   object-fit: cover;
+  margin-right: 88px;
+  margin-left: auto;
+}
+@media screen and (max-width: 1279px) {
+  .lead__pic {
+    margin-right: 0;
+  }
 }
