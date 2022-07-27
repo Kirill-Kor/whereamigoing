@@ -1,0 +1,7 @@
+.section__description {
+  margin: 112px 0 30px;
+  color: var(--color-orange);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
