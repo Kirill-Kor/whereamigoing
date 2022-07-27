@@ -1,4 +1,5 @@
 .feedback__cell {
+    box-sizing: border-box;
     padding: 5px;
     max-width: 240px;
     display: flex;
