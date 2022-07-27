@@ -2,3 +2,11 @@
   padding: 0 70px 130px;
   display: flex;
 }
+
+@media screen and (max-width:767px) {
+  .lead {
+    display: block;
+    padding: 0 0 130px;
+    overflow: hidden;
+  }
+}

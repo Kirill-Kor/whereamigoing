@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,16 +11,16 @@
     <nav class="header__menu">
       <ul class="header__links">
         <li>
-          <a class="header__link" href="#">Мечты</a>
+          <a class="header__link" href="#" target="_blank">Мечты</a>
         </li>
         <li>
-          <a class="header__link" href="#">Ожидания</a>
+          <a class="header__link" href="#" target="_blank">Ожидания</a>
         </li>
         <li>
-          <a class="header__link" href="#">Реальность</a>
+          <a class="header__link" href="#" target="_blank">Реальность</a>
         </li>
       </ul>
-      <a href="#" class="header__link">Пожаловаться</a>
+      <a href="#" class="header__link header__link_margin_no" target="_blank">Пожаловаться</a>
     </nav>
   </header>
 
@@ -30,11 +30,13 @@
         <p class="section__description">куда я поеду</p>
         <h1 class="section__title">Куда я поеду сразу, как можно будет куда-то поехать</h1>
       </div>
-      <img src="images/lead-image.jpeg" alt="#" class="lead__pic">
+      <img src="images/lead-image.jpeg" alt="Лучи солнца сквозь облака из иллюминатора самолета" class="lead__pic">
     </section>
 
     <section class="places">
-      <img src="images/places-forest.jpeg" alt="#" class="places__pic">
+      <div class="wrapper">
+        <img src="images/places-forest.jpeg" alt="Путешественник на фоне водопада в лесу" class="places__pic">
+      </div>
       <div class="places__description">
         <p class="section__title">Поеду в лес</p>
         <div class="places__text">
@@ -48,7 +50,9 @@
           </p>
         </div>
       </div>
-      <img src="images/places-mountains.jpeg" alt="" class="places__pic places__pic_column_third">    
+      <div class="wrapper">
+        <img src="images/places-mountains.jpeg" alt="Путешественник на фоне звездного неба и луны над горой" class="places__pic places__pic_column_third">
+      </div>    
       <div class="places__description places__description_column_third">
         <p class="section__title">Поеду в горы</p>
         <div class="places__text">
@@ -61,7 +65,9 @@
         </div>
       </div>
       
-      <img src="images/places-black-sea.jpeg" alt="" class="places__pic">
+      <div class="wrapper">
+        <img src="images/places-black-sea.jpeg" alt="Девушка на фоне восхода на море" class="places__pic">
+      </div>
       <div class="places__description">
         <p class="section__title">Поеду на Чёрное море</p>
         <div class="places__text">

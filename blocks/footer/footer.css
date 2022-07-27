@@ -1,7 +1,11 @@
 .footer {
-    min-height: 620px;
-    background-color: #FC9;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  min-height: 620px;
+  background-color: #fecda7;
+  display: flex;
+}
+
+@media screen and (max-width: 767px) {
+  .footer {
+    min-height: 310px;
+  }
 }
