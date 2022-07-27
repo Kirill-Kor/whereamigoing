@@ -2,6 +2,10 @@
 /*page*/
 @import url(../blocks/page/page.css);
 
+/*container*/
+@import url(../blocks/container/container.css);
+
+/*wrapper*/
 @import url(../blocks/wrapper/wrapper.css);
 
 /*section*/

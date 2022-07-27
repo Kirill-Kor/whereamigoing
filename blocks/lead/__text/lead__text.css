@@ -6,5 +6,6 @@
 @media screen and (max-width: 767px) {
   .lead__text {
     padding: 0 5%;
+    margin: 0;
   }
 }

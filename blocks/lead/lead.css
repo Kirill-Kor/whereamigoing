@@ -7,5 +7,6 @@
   .lead {
     display: block;
     padding: 0 0 130px;
+    overflow: hidden;
   }
 }
