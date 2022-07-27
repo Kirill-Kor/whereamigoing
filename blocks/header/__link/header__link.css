@@ -1,10 +1,8 @@
 .header__link {
-  display: block;
   color: #000;
   text-decoration: none;
   font-size: 13px;
   font-weight: 700;
-  margin-right: 36px;
   transition: all 1s ease;
 }
 
@@ -12,8 +10,8 @@
   color: #fecda7;
 }
 
-@media screen and (max-width: 767px) {
+/*@media screen and (max-width: 767px) {
   .header__link {
     margin-bottom: 20px;
   }
-}
+}*/

@@ -1,13 +1,16 @@
 .header__links {
   margin: 0;
   padding: 0;
-  min-width: 265px;
+  min-width: 100px;
+  gap: 36px;
   list-style: none;
   display: flex;
+  justify-content: space-between;
 }
 
 @media screen and (max-width: 767px) {
   .header__links {
-    display: block;
+    max-width: 100px;
+    flex-direction: column;
   }
 }
