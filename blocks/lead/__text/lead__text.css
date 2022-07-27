@@ -1,3 +1,9 @@
 .lead__text {
   max-width: 520px;
 }
+
+@media screen and (max-width: 767px) {
+  .lead__text {
+    padding: 0 5%;
+  }
+}
