@@ -1,0 +1,6 @@
+.feedback__cell {
+    max-width: 240px;
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+}

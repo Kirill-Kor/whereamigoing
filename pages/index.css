@@ -5,6 +5,7 @@
 /*section*/
 @import url(../blocks/section/__title/section__title.css);
 @import url(../blocks/section/__description/section__description.css);
+@import url(../blocks/section/__title/_place/section__title_place_feedback.css);
 
 /*header*/
 @import url(../blocks/header/header.css);
@@ -24,3 +25,15 @@
 @import url(../blocks/places/__text/places__text.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
 @import url(../blocks/places/__paragraph/_margin-bottom/places__paragraph_margin-bottom_no.css);
+
+/* feedback */
+@import url(../blocks/feedback/feedback.css);
+@import url(../blocks/feedback/__table/feedback__table.css);
+@import url(../blocks/feedback/__cell/feedback__cell.css);
+@import url(../blocks/feedback/__title/feedback__title.css);
+@import url(../blocks/feedback/__text/feedback__text.css);
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__description/footer__description.css);
+
