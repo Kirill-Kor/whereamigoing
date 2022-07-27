@@ -2,7 +2,12 @@
   display: block;
   color: #000;
   text-decoration: none;
-  font-size: var(--font-size-text);
+  font-size: 13px;
   font-weight: 700;
   margin-right: 36px;
+  transition: all 1s ease;
+}
+
+.header__link:hover {
+  color: #fecda7;
 }
