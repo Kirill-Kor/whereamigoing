@@ -2,4 +2,10 @@
   width: 100%;
   height: 533px;
   object-fit: cover;
+  transition: all 2s;
+  
+}
+
+.places__pic:hover {
+  transform: scale(1.09);
 }
