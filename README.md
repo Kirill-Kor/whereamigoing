@@ -30,4 +30,4 @@
 * [Ссылка на Github Pages](https://kirill-kor.github.io/whereamigoing/)
 
 ### **Авторы**
-_Кирилл Корчагин и_
+_Кирилл Корчагин и Быков Илья_
