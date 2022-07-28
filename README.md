@@ -24,7 +24,7 @@
 
 ### **Ссылка на макет**
 
-<a href="https://ibb.co/RBQ39L0"><img src="https://i.ibb.co/RBQ39L0/kuda-ya-poedu-29-5-20.png" alt="Миниатюра макета" border="0"></a>
+<a href="https://ibb.co/RBQ39L0"><img src="https://i.ibb.co/RBQ39L0/kuda-ya-poedu-29-5-20.png" alt="Миниатюра макета" target="_blank" border="0"></a>
 
 ### **Github Pages**
 * [Ссылка на Github Pages](https://kirill-kor.github.io/whereamigoing/)
