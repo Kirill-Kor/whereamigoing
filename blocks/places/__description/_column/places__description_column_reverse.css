@@ -1,0 +1,4 @@
+.places__description_column_reverse {
+  grid-column: 1;
+  grid-row: 2;
+}
