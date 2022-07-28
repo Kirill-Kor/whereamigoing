@@ -24,18 +24,10 @@
 
 ### **Ссылка на макет**
 
-<<<<<<< HEAD
 <a href="https://ibb.co/RBQ39L0"><img src="https://i.ibb.co/RBQ39L0/kuda-ya-poedu-29-5-20.png" alt="Миниатюра макета" target="_blank" border="0"></a>
-=======
-<a href="https://ibb.co/RBQ39L0"><img src="https://i.ibb.co/RBQ39L0/kuda-ya-poedu-29-5-20.png" alt="Миниатюра макета" border="0"></a>
->>>>>>> 25dc30c71f0a056a79e690e73e02170534aadd60
 
 ### **Github Pages**
 * [Ссылка на Github Pages](https://kirill-kor.github.io/whereamigoing/)
 
 ### **Авторы**
-<<<<<<< HEAD
-_Кирилл Корчагин и_
-=======
 _Кирилл Корчагин и Быков Илья_
->>>>>>> 25dc30c71f0a056a79e690e73e02170534aadd60
